@@ -1,2 +1,7 @@
 # javascript-book
-자바스크립트 용어집
+monkey patch
+event loop
+closure
+hoisting
+generator function
+IIEF
