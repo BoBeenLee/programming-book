@@ -5,4 +5,4 @@
 - hoisting
 - generator function
 - IIEF
-- [link to CORS!](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
+- [CORS!](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
