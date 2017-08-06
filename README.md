@@ -1,4 +1,4 @@
-# javascript-book
+# JS
 - monkey patch
 - event loop
 - closure
@@ -14,17 +14,17 @@
 
 # React
 ## Redux
-# Flux
-# Action
+### Flux
+### Action
 - Redux-Thunk
 Higher Function
 - Redux-Saga 
 Generator Function
 - Redux-Obervable
 ???
-# Reducer
+### Reducer
 - Hierarchy Tree
-# Store
+### Store
 - a Store 
 
 ## MobX
