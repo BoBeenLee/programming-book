@@ -39,3 +39,8 @@ Generator Function
 ## MobX
 - https://mobx.js.org/intro/concepts.html
 - It Seems Like Excel Spreadsheets
+
+## Obervable
+- https://redux-observable.js.org/
+
+
