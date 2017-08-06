@@ -7,6 +7,7 @@
 - IIEF
 - [CORS](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 - apply, call, bind
+- fisrt class ( function, object, component? )
 
 http://jstherightway.org/ko-kr/
 
