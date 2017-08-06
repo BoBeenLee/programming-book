@@ -8,7 +8,11 @@
 - [CORS](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 - apply, call, bind
 - fisrt class ( function, object, component? )
-- lexical scope
+- lexical scope : use environment where function [and variable] is defined 
+<=> dynamic scope
+http://bestalign.github.io/2015/07/12/Lexical-Scope-and-Dynamic-Scope/
+
+
 
 http://jstherightway.org/ko-kr/
 
