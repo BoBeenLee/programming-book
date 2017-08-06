@@ -8,6 +8,7 @@
 - [CORS](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 - apply, call, bind
 - fisrt class ( function, object, component? )
+- lexical scope
 
 http://jstherightway.org/ko-kr/
 
