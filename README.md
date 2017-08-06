@@ -14,7 +14,9 @@
 
 # React
 ## Redux
-### Flux
+- http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/
+### Flux Concept
+- http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/
 ### Action
 - Redux-Thunk
 Higher Function
