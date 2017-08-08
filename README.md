@@ -11,7 +11,8 @@
 - lexical scope : use environment where function [and variable] is defined 
 <=> dynamic scope
 http://bestalign.github.io/2015/07/12/Lexical-Scope-and-Dynamic-Scope/
-
+- Iterator, Generator
+https://github.com/nhnent/fe.javascript/wiki/October-12---October-16,-2015
 
 
 http://jstherightway.org/ko-kr/
