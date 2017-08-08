@@ -3,7 +3,7 @@
 - event loop
 - closure
 - hoisting
-- generator function
+- generator function <br/>
   http://meetup.toast.com/posts/73
 - IIEF
 - [CORS](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
@@ -12,7 +12,7 @@
 - lexical scope : use environment where function [and variable] is defined 
 <=> dynamic scope
   http://bestalign.github.io/2015/07/12/Lexical-Scope-and-Dynamic-Scope/
-- Iterator, Generator </br>
+- Iterator, Generator <br/>
   https://github.com/nhnent/fe.javascript/wiki/October-12---October-16,-2015
 - Promise
 - Syntactic sugar
