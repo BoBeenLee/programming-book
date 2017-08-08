@@ -16,6 +16,7 @@
   https://github.com/nhnent/fe.javascript/wiki/October-12---October-16,-2015
 - Promise
 - Syntactic sugar
+- partial, curry
 
 http://jstherightway.org/ko-kr/
 
