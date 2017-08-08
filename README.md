@@ -13,6 +13,7 @@
 http://bestalign.github.io/2015/07/12/Lexical-Scope-and-Dynamic-Scope/
 - Iterator, Generator
 https://github.com/nhnent/fe.javascript/wiki/October-12---October-16,-2015
+- Promise
 
 
 http://jstherightway.org/ko-kr/
