@@ -19,6 +19,8 @@
 - partial, curry
 - callback
 - prototype
+- tag template literals <br/>
+  ex) styled-component
 
 http://jstherightway.org/ko-kr/
 
