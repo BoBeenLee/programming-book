@@ -55,5 +55,7 @@ Generator Function
 - babel
 - grunt
 
-
-
+## Pattern
+- LINQ
+- CQRS
+- Codifies patterns
