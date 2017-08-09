@@ -17,6 +17,7 @@
 - Promise
 - Syntactic sugar
 - partial, curry
+- callback
 
 http://jstherightway.org/ko-kr/
 
