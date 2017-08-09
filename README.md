@@ -18,6 +18,7 @@
 - Syntactic sugar
 - partial, curry
 - callback
+- prototype
 
 http://jstherightway.org/ko-kr/
 
@@ -47,5 +48,10 @@ Generator Function
 
 ## Obervable
 - https://redux-observable.js.org/
+
+## translator
+- babel
+- grunt
+
 
 
