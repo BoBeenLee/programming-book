@@ -18,7 +18,8 @@
 - Syntactic sugar
 - partial, curry
 - callback
-- prototype
+- prototype, prototype chain <br/>
+  https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67
 - tag template literals <br/>
   ex) styled-component
 
