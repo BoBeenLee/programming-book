@@ -5,7 +5,7 @@
 - hoisting
 - generator function <br/>
   http://meetup.toast.com/posts/73
-- IIEF
+- IIEF ( Immediately-Invoked Function Expression )
 - [CORS](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 - apply, call, bind
 - fisrt class ( function, object, component? )
