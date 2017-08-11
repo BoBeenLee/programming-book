@@ -23,6 +23,7 @@
 - tag template literals <br/>
   ex) styled-component
 - high order function, component
+- short-circuit
 
 http://jstherightway.org/ko-kr/
 
