@@ -24,13 +24,14 @@
   ex) styled-component
 - high order function, component
 - short-circuit
+- debounce
 
 http://jstherightway.org/ko-kr/
 
 # RxJS
 ??
 
-# React
+# React, React Native
 ## Redux
 - http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/
 ### Flux Concept
