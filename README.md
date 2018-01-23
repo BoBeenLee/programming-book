@@ -39,7 +39,7 @@ http://jstherightway.org/ko-kr/
 - http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/
 ### Action
 - Redux-Thunk
-Higher Function
+High order Function
 - Redux-Saga 
 Generator Function
 - Redux-Obervable
