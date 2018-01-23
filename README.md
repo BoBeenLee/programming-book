@@ -25,6 +25,7 @@
 - high order function, component
 - short-circuit
 - debounce
+- Single source of truth
 
 http://jstherightway.org/ko-kr/
 
