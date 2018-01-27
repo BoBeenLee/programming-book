@@ -1,4 +1,4 @@
-# JS
+# JS Conception
 - monkey patch
 - event loop
 - closure
@@ -26,6 +26,7 @@
 - short-circuit
 - debounce
 - Single source of truth
+- DRY ( Don't repeat yourself )
 
 http://jstherightway.org/ko-kr/
 
