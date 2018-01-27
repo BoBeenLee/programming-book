@@ -1,3 +1,8 @@
+# Experience ( https://www.youtube.com/watch?v=0c9OC9NBsro )
+- First, User Experience ( AJAX )
+- Second, Developer Experience ( React, Angular, Vue )
+- Third, Offline Experience ( after )
+
 # JS Conception
 - monkey patch
 - event loop
