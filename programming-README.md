@@ -4,7 +4,7 @@
 - Offline Experience ( kill the dinosaur )
 - Provide Application like user Experience
 
-# Programming Conception
+# Programming Term
 - monkey patch
 - event loop
 - closure
@@ -34,6 +34,7 @@
 - Single source of truth
 - DRY ( Don't repeat yourself )
 - Magic Number
+- milestone
 
 http://jstherightway.org/ko-kr/
 
