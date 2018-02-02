@@ -4,7 +4,7 @@
 - Offline Experience ( kill the dinosaur )
 - Provide Application like user Experience
 
-# JS Conception
+# Programming Conception
 - monkey patch
 - event loop
 - closure
@@ -33,6 +33,7 @@
 - debounce
 - Single source of truth
 - DRY ( Don't repeat yourself )
+- Magic Number
 
 http://jstherightway.org/ko-kr/
 
