@@ -35,6 +35,7 @@
 - DRY ( Don't repeat yourself )
 - Magic Number
 - milestone
+- landing page
 
 http://jstherightway.org/ko-kr/
 
