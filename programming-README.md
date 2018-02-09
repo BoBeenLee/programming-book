@@ -36,6 +36,8 @@
 - Magic Number
 - milestone
 - landing page
+- Optimistic UI(https://www.apollographql.com/docs/react/recipes/authentication.html)
+- Odata(http://www.odata.org/)
 
 http://jstherightway.org/ko-kr/
 
