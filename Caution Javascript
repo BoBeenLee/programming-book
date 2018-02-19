@@ -1,0 +1,11 @@
+`
+function test() {
+  if(undefined == null) {
+    console.log('Yes undefined is == null');
+  }
+  if(undefined === null) {
+    console.log('yes undefined is === null');
+  }
+}
+test();
+`
