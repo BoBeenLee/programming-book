@@ -1,4 +1,4 @@
-(Twitter Lite and High Performance React Progressive Web Apps at Scale)[https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3]
+[Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 
 
 - Use Route-Based Code Splitting
