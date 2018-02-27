@@ -34,29 +34,39 @@
 - Single source of truth
 - DRY ( Don't repeat yourself )
 - Magic Number
-- milestone
 - landing page
 - Optimistic UI(https://www.apollographql.com/docs/react/recipes/authentication.html)
-- Odata(http://www.odata.org/)
 - Progressive Image or Image Optimization (https://medium.com/@kyle.robert.gill/ridiculously-easy-image-optimization-with-gatsby-js-59d48e15db6e)
+
+- milestone
+
 
 http://jstherightway.org/ko-kr/
 
-## RxJS
-??
+# GraphQL
+- query language for your API
+- Odata(http://www.odata.org/)
+
+## [apollo](https://www.apollographql.com/), [urql](https://github.com/FormidableLabs/urql)
+- supported client side
+- make easy query, mutation, but more better urql
 
 # React, React Native
 ## Redux
 - http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/
+- [Ducks Pattern](https://github.com/erikras/ducks-modular-redux)
+  - To me, it makes more sense for these pieces to be bundled together in an isolated module that is self contained, and can even be packaged easily into a library. if you wanna more detail, click ducks link.
+- [redux-box](https://github.com/anish000kumar/redux-box)
+
 ### Flux Concept
 - http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/
 ### Action
 - Redux-Thunk
-High order Function
+based on High order Function
 - Redux-Saga 
-Generator Function
+based on Generator Function
 - Redux-Obervable
-???
+like Observer pattern.
 ### Reducer
 - Hierarchy Tree
 ### Store
@@ -73,9 +83,9 @@ Generator Function
 - babel
 - grunt
 
-## Pattern
+## Other Patterns
 - LINQ
-- CQRS
+- CQRS(Command Query Responsibility Segregation) - Redux패턴의 유래가 CQRS에 있다함.
 - Codifies patterns
 
 ## Best Tools
