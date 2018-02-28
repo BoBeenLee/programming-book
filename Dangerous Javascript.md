@@ -30,4 +30,18 @@ var foo = function(n) {
 foo(6)
 foo(3);
 ```
-## 4
+## 4 hoisting
+
+```javascript
+function foo() {
+	console.log('foo called...');
+}
+
+foo();
+
+function foo() {
+	console.log('foo redefined');
+}
+
+foo();
+```
