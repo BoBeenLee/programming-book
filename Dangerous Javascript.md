@@ -45,3 +45,34 @@ function foo() {
 
 foo();
 ```
+
+## 5 hasOwnProperty
+
+```javascript
+var Car = function(year) {
+	this.year = year;
+};
+
+Car.proptotype.miles = 0;
+
+Car.prototype.drive = function(dist) {
+	this.miles += dist;
+}
+
+var car1 = new Car(2015);
+var car2 = new Car(2017);
+
+for(var prop in car1) {
+	console.log(prop + ' ' + car1.hasOwnProperty(prop));
+}
+
+car1.drive(10);
+
+for(var prop in car1) {
+	console.log(prop + ' ' + car1.hasOwnProperty(prop));
+}
+
+for(var prop in car2) {
+	console.log(prop + ' ' + car2.hasOwnProperty(prop));
+}
+```
