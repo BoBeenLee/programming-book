@@ -1,6 +1,6 @@
 ## 1
 
-`
+```javascript
 function test() {
   if(undefined == null) {
     console.log('Yes undefined is == null');
@@ -10,15 +10,15 @@ function test() {
   }
 }
 test();
-`
+```
 ## 2
 
-`
+```javascript
 Object.freeze, Object.seal
-`
+```
 ## 3
 
-`
+```javascript
 var foo = function(n) {
     if(n < 5) {
         return 
@@ -29,5 +29,5 @@ var foo = function(n) {
 };
 foo(6)
 foo(3);
-`
+```
 ## 4
