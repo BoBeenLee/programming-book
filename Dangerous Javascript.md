@@ -1,4 +1,5 @@
 ## 1
+
 `
 function test() {
   if(undefined == null) {
@@ -11,10 +12,12 @@ function test() {
 test();
 `
 ## 2
+
 `
 Object.freeze, Object.seal
 `
 ## 3
+
 `
 var foo = function(n) {
     if(n < 5) {
@@ -24,7 +27,6 @@ var foo = function(n) {
     else 
         return n;
 };
-
 foo(6)
 foo(3);
 `
