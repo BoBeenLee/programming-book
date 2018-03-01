@@ -52,6 +52,10 @@ http://jstherightway.org/ko-kr/
 - make easy query, mutation, but more better urql
 
 # React, React Native
+## Component
+- [Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
+
+
 ## Redux
 - http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/
 - [Ducks Pattern](https://github.com/erikras/ducks-modular-redux)
