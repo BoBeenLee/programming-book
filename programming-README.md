@@ -36,12 +36,14 @@
 - Magic Number
 - landing page
 - Optimistic UI(https://www.apollographql.com/docs/react/recipes/authentication.html)
-- Progressive Image or Image Optimization (https://medium.com/@kyle.robert.gill/ridiculously-easy-image-optimization-with-gatsby-js-59d48e15db6e)
-
 - milestone
 
-
 http://jstherightway.org/ko-kr/
+
+# Image
+- image sprite
+- Progressive Image or Image Optimization (https://medium.com/@kyle.robert.gill/ridiculously-easy-image-optimization-with-gatsby-js-59d48e15db6e)
+
 
 # GraphQL
 - query language for your API
