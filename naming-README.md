@@ -1,36 +1,50 @@
 # naming-book
+- 생성 :
+create, make, build, yield,
 - 추가 :
 add, insert, 
 - 수정 :
 modify, update,
 - 삭제 :
 remove, delete
+- 관리 : 
+manage
+- 보기 : 
+show, display, 
 - 동기 :
 sync, refresh, reload
 - 유효성 검사 :
 check ( 반환값 void ), validate
 - 실행 :
-do, execute, process, fire, request
+do, execute, process, fire, request, call, load
 - 찾기 :
 find, search
 - 추출 :
-extract, get
+extract
+- 반환, 조회 : 
+get, select, 
 - 채우기 :
 fill, inject, set, input
 - 포함 :
-contain, has, is
+contain, has, is, can
 - 변환 :
 map, convert
 - 조작 : 
 toggle, handle
-- 불러오다 :
-load
 - 이동 :
-move, navigate, shift
+move, navigate, shift, animate
+- 시작 : 
+start, begin
+- 뒤로 :
+back, rollback, 
+- 완료 :
+finish, done, complete
 - 리스너 :
 on
+- 요구
+require, need, 
 - etc
- 
+invoke, with, enhance, 
  
  
 영문 단어 / 동의어	New - DB 사용시	설명
