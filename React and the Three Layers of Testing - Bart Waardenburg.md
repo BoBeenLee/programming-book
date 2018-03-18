@@ -45,7 +45,7 @@ test('The Button component renders correctly', () => {
 
 ### You can have every single component and function unit test passing but still have none of your functions working together like they should
 
-### Integration testing is the phase in sofrware testing in which individual software modules are combined and tested as a group.
+### Integration testing is the phase in software testing in which individual software modules are combined and tested as a group.
 
 
 ```javascript
