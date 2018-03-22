@@ -110,7 +110,7 @@ like Observer pattern.
   Proxy objects are the same in software. You make a call to a resource or service and the call that you make is handled by an object that can figure out how to make the real call, possibly pre-process the results and send any response you need, back to you.
 - Hijacking a javascript function Pattern
 
-# Error
+## Error
 Uncaught promise errors in Chrome
 ```javascript
 window.onunhandledrejection = event => {
@@ -133,6 +133,9 @@ foo();
 - Only throw/Promise.reject Error objects
 - Make sure all promise chains have a proper catch
 - Code defensively with debugging in mind
+
+### JavaScript error Tracking services
+bugsnag, rollbar, sentry, raygun, honeybadger, trackjs, airbrake.io
 
 ## Best Tools
 - [Freactal](https://github.com/FormidableLabs/freactal)
