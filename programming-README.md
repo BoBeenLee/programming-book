@@ -110,6 +110,30 @@ like Observer pattern.
   Proxy objects are the same in software. You make a call to a resource or service and the call that you make is handled by an object that can figure out how to make the real call, possibly pre-process the results and send any response you need, back to you.
 - Hijacking a javascript function Pattern
 
+# Error
+Uncaught promise errors in Chrome
+```javascript
+window.onunhandledrejection = event => {
+  event.preventDefault(); // prevent the console.error warining
+  console.log('Unhandled promise rejection: ' + event.reason);
+}
+window.onrejectionhandled = event => {
+  console.log('promise rejection handled');
+}
+
+function foo() {
+  const promise = Promise.reject(new Error('trichobezoar'));
+  setTimeout(() => promise.catch(error => console.log('eventually caught')),
+  5000);
+}
+
+foo();
+```
+### Remember
+- Only throw/Promise.reject Error objects
+- Make sure all promise chains have a proper catch
+- Code defensively with debugging in mind
+
 ## Best Tools
 - [Freactal](https://github.com/FormidableLabs/freactal)
   - input, toggle등 반복적인 state처리가 필요할 시 provideState로 컨테이너 분리하면 효율적으로 사용할 수 있음.
@@ -117,4 +141,4 @@ like Observer pattern.
   - 말이 필요없는 깔끔한 Carousel
 - [Radium](https://github.com/FormidableLabs/radium)
   - CSS in JS. inline style로 모든 CSS를 표현할수 있다. ex) mediaquery, :hover, :active ...
-  
+
