@@ -54,6 +54,14 @@ http://jstherightway.org/ko-kr/
 - make easy query, mutation, but more better urql
 
 # React, React Native
+
+## SSR ( Server Side Rendering )
+- Rendering Optimzation ( Hastening React SSR with Component Memoization and Templatization )
+  - Memoization: Component's rendered markup is stored in a cache and used for sub-sequent requests of 
+  the exact same component.
+  - Templatization: Component's rendered markup is templatized and used for sub-sequent requests of the 
+  same component with different props.
+
 ## Component
 - [Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 
@@ -81,6 +89,8 @@ like Observer pattern.
 ## MobX
 - https://mobx.js.org/intro/concepts.html
 - It Seems Like Excel Spreadsheets
+- mob stateless
+
 
 ## Obervable
 - https://redux-observable.js.org/
