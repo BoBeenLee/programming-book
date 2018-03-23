@@ -89,7 +89,7 @@ like Observer pattern.
 ## MobX
 - https://mobx.js.org/intro/concepts.html
 - It Seems Like Excel Spreadsheets
-- mob stateless
+- [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
 
 
 ## Obervable
