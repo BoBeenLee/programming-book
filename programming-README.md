@@ -8,9 +8,10 @@
 - monkey patch
 - event loop
 - closure
+- [Coroutine](https://en.wikipedia.org/wiki/Coroutine)
+  - https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407
 - hoisting
-- generator function <br/>
-  http://meetup.toast.com/posts/73
+- [generator function](http://meetup.toast.com/posts/73)
 - IIEF ( Immediately-Invoked Function Expression )
 - [CORS](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 - apply, call, bind
@@ -35,7 +36,7 @@
 - DRY ( Don't repeat yourself )
 - Magic Number
 - landing page
-- Optimistic UI(https://www.apollographql.com/docs/react/recipes/authentication.html)
+- [Optimistic UI](https://www.apollographql.com/docs/react/recipes/authentication.html)
 - milestone
 
 http://jstherightway.org/ko-kr/
