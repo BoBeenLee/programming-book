@@ -5,8 +5,9 @@
 - Provide Application like user Experience
 
 ## Programming Term
+- [Imperative vs Declarative Programming](https://blog.webix.com/difference-between-declarative-and-imperative-programming-with-language-examples/)
 - monkey patch
-- event loop
+- Event loop
 - closure
 - [Coroutine](https://en.wikipedia.org/wiki/Coroutine)
   - https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407
