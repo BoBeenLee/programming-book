@@ -30,3 +30,5 @@ An opinionated state management system <br/>
 + Any node in a Tree is a Tree itself
 + All leaves in the Tree must be serializable
 + Every change to a model correspond to a snapshot and a patch
+
+<img src="https://f001.backblazeb2.com/file/develop-pics/mobx-structure.png" />
