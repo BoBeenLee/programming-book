@@ -76,6 +76,8 @@ http://jstherightway.org/ko-kr/
 - [Ducks Pattern](https://github.com/erikras/ducks-modular-redux)
   - To me, it makes more sense for these pieces to be bundled together in an isolated module that is self contained, and can even be packaged easily into a library. if you wanna more detail, click ducks link.
 - [redux-box](https://github.com/anish000kumar/redux-box)
+### Services
+- https://github.com/hql287/Manta
 
 ### Flux Concept
 - http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/
@@ -95,7 +97,7 @@ like Observer pattern.
 - https://mobx.js.org/intro/concepts.html
 - It Seems Like Excel Spreadsheets
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
-### Example
+### Services
 - https://github.com/meetfranz/franz
 
 
