@@ -111,6 +111,7 @@ like Observer pattern.
   Proxy: Mobx, immer, internet proxy server <br/>
   Proxy objects are the same in software. You make a call to a resource or service and the call that you make is handled by an object that can figure out how to make the real call, possibly pre-process the results and send any response you need, back to you.
 - Hijacking a javascript function Pattern
+- [Registration Pattern](https://www.youtube.com/watch?v=smBND2pwdUE)
 
 ## Error
 Uncaught promise errors in Chrome
