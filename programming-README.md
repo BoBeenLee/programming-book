@@ -67,6 +67,9 @@ http://jstherightway.org/ko-kr/
 ## Component
 - [Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 
+## Render Props
+- https://github.com/renatorib/react-powerplug
+- https://github.com/pedronauck/react-adopt
 
 ## Redux
 - http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/
