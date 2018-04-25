@@ -1,18 +1,18 @@
 [React-Storybook: Design, Develop, Document and Debug your React UI](https://www.youtube.com/watch?v=q248uxiicwY&t=747s)
 
 ### Storybook contribution during the developer journey
-Develop
+Develop <br/>
 - hot reloading isolated environment iterate quickly
-Design
+Design <br/>
 - Create a styleguide
-Document 
+Document <br/>
 - Live documentation
 - Add specification through tests
 - Expose props
-Debug
+Debug <br/>
 - Entry points
 - Isolate bugs
-Discuss
+Discuss <br/>
 - Share stories
 
 ### Why adopt storybook?
