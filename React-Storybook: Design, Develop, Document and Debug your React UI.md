@@ -3,15 +3,19 @@
 ### Storybook contribution during the developer journey
 Develop <br/>
 - hot reloading isolated environment iterate quickly
+
 Design <br/>
 - Create a styleguide
+
 Document <br/>
 - Live documentation
 - Add specification through tests
 - Expose props
+
 Debug <br/>
 - Entry points
 - Isolate bugs
+
 Discuss <br/>
 - Share stories
 
