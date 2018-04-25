@@ -1,4 +1,4 @@
-Universal React Made Easy and Simple
+[Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
 
 Emergent Convention
 - pages/ top level components (entry points)
