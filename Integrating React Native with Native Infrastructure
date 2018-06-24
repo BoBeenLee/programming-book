@@ -1,0 +1,64 @@
+[Integrating React Native with Native Infrastructure](https://www.youtube.com/watch?v=QOAoLF6FV7A)
+
+Outline
+* React Native at Facebook
+* Fully React vs Hybrid
+* Navigation
+* Data loading
+* Experimentation
+* When to use React Native
+
+React Native at Facebook
+* used by ~100s of product engineers
+* ~100s of screens within the Facebook app in Reat Native
+* still chugging away, and still contributing to open-source
+
+Naivigation
+Use JS navigation only in the React Native part?
+* how to navigate to native views?
+* non-uniform transitions
+* native features like Peek
+
+Reuse native navigation
+
+URL based Navigation
+* parameters easily passed over
+* easy to encode in Native and React Native
+* great for debugging
+* able to handle RN fatats nicely
+* eacth screen is its own Root View
+
+Navigation Options
+* Options property on each screen in JS
+* able to specify transition, allowed orientations
+* also able to control chrome handled by the native navigator, e.g. bar buttons, hiding back button, etc.
+* can also specify by URL parameters
+* ...but how does it work if JS isn't running?
+
+Navigation Options
+code-gen all routes information to a JSON file!
+1. navigationOptions all specified as JS properties on App classes
+2. jest script require()'s them all, does some sanity checks
+3. writes resuilt to a JSON routes file
+4. native URL handler reads JSON routes file at runtime without JS VM
+
+Data Loading
+* constitency
+* avoid overdownloading
+* data prefetching!
+
+Experimentation
+* A/B testing!
+* main concern: consistency
+* load all experiments at startup and reuse them for the entire app session.
+* when RN is loaded, reuse those same values
+* if you don't want to load all experiments, can do a similar system as Navigation to find all usages..
+
+When to use React Native
+Good for
+* New features, especially the ones requiring design iteration
+* Full-screen views
+* Webview conversions
+Not great for
+* Small view embedding
+* Complete, identical rewrites
