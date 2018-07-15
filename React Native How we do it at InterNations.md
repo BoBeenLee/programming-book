@@ -245,32 +245,31 @@ How much code is reused between iOS and Android?
 +95%
 
 so?
+```
+Native Mobile App Challenges | RN Ecosystem Solutions |
+UI | React Naitve |
+Business Logic & Side Effects | Redux Saga |
+State Management | Redux |
+Tests | Jest, Calabash, Detox |
+Types | Jest & TypeScripts |
+Code Quality | Eslint, Prettier |
+Debugging | React Native Debugger |
+Continuous Delivery & Deployments | Code Push, Fastlane, Jenkins |
+Performance optimization | Android first |
+Production Monitoring | MS App Center |
+Scaling | ? |
 
-| Native Mobile App Challenges | RN Ecosystem Solutions |
-| UI | React Naitve |
-| Business Logic & Side Effects | Redux Saga |
-| State Management | Redux |
-| Tests | Jest, Calabash, Detox |
-| Types | Jest & TypeScripts |
-| Code Quality | Eslint, Prettier |
-| Debugging | React Native Debugger |
-| Continuous Delivery & Deployments | Code Push, Fastlane, Jenkins |
-| Performance optimization | Android first |
-| Production Monitoring | MS App Center |
-| Scaling | ? |
-
-| Library | Usage | Do you care? |
-| prettier | developer efficiency | **** |
-| eslint | stability | **** |
-| redux | state management, action-based infra | *** |
-| flow | stability | *** |
-| redux-saga | side effects/bus.logic | ** |
-| reselect, batched subscribe | render cost reduction | ** |
-| fastlane | sane builds | * |
-| app center | crash analytics | * |
-| calabash, detox | acceptance tests | * |
-
-
+Library | Usage | Do you care? |
+prettier | developer efficiency | **** |
+eslint | stability | **** |
+redux | state management, action-based infra | *** |
+flow | stability | *** |
+redux-saga | side effects/bus.logic | ** |
+reselect, batched subscribe | render cost reduction | ** |
+fastlane | sane builds | * |
+app center | crash analytics | * |
+calabash, detox | acceptance tests | * |
+```
 
 
 
