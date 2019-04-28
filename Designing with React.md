@@ -23,8 +23,7 @@ BLURRING THE LINES
 between
 DESIGN AND CODE
 
- What makes these "design tools"?
-
+What makes these "design tools"?
  - Easy to set up
  - New documents are cheap
  - Iteration is really fast
@@ -58,14 +57,14 @@ SANDBOX
 for our
 DESIGN LANGUAGE
 
-This doesn't eliminate traditional design tools.
+This doesn't eliminate traditional design tools.<br/>
 It reframes their purpose.
 
 ### Low fidelity iteration should be on paper.
 
 ### High fidelity iteration should be in code.
 
-Code powered design tools
+Code powered design tools <br/>
 Design powered development tools
 
 
