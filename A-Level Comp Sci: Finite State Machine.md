@@ -12,7 +12,6 @@ State Transition Diagram
 
 State Transition Tables
 
-
 Input           | Current State | Next State
 Button Pressed  | Nib Retacted  | Nib Extended
 Button Pressed  | Nib Extended  | Nib Retacted
