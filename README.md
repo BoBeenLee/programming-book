@@ -41,7 +41,7 @@
 - milestone
 - Single point of failure (SPOF)
 - [monorepo](https://monorepo.tools/?fbclid=IwAR2ZTCTmoREVHRzHzmDD9IRenbXThz9WYqqwbKi33bNqlp3q_lcKQ8crCbI#distributed-task-execution) vs polyrepo
-  https://github.com/joelparkerhenderson/monorepo-vs-polyrepo  
+  - https://github.com/joelparkerhenderson/monorepo-vs-polyrepo  
 
 http://jstherightway.org/ko-kr/
 
@@ -67,12 +67,19 @@ http://jstherightway.org/ko-kr/
   - Templatization: Component's rendered markup is templatized and used for sub-sequent requests of the 
   same component with different props.
 
+## SSG(Static Site Generation), ISR(Increment Static Regeneration), SSR, CSR(Client Side Rendering), RSC(React Server Component)
+- https://www.youtube.com/watch?v=PN1HgvAOmi8
+
 ## Component
 - [Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 
 ## Render Props
 - https://github.com/renatorib/react-powerplug
 - https://github.com/pedronauck/react-adopt
+
+## XState
+- JavaScript and TypeScript finite state machines (opens new window)and statecharts (opens new window)for the modern web.
+- https://xstate.js.org/docs/
 
 ## Redux
 - http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/
@@ -100,9 +107,9 @@ like Observer pattern.
 - https://mobx.js.org/intro/concepts.html
 - It Seems Like Excel Spreadsheets
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
+
 ### Services
 - https://github.com/meetfranz/franz
-
 
 ## Obervable
 - https://redux-observable.js.org/
