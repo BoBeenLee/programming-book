@@ -39,6 +39,7 @@
 - landing page
 - [Optimistic UI](https://www.apollographql.com/docs/react/recipes/authentication.html)
 - milestone
+- Single point of failure (SPOF)
 
 http://jstherightway.org/ko-kr/
 
