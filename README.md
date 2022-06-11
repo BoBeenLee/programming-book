@@ -47,7 +47,7 @@ http://jstherightway.org/ko-kr/
 
 # Image
 - image sprite
-- Progressive Image or Image Optimization (https://medium.com/@kyle.robert.gill/ridiculously-easy-image-optimization-with-gatsby-js-59d48e15db6e)
+- [Progressive Image or Image Optimization](https://medium.com/@kyle.robert.gill/ridiculously-easy-image-optimization-with-gatsby-js-59d48e15db6e)
 
 
 # GraphQL
