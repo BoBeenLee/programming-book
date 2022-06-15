@@ -1,5 +1,6 @@
 
 ## Singleton Pattern
+- https://www.patterns.dev/posts/singleton-pattern/
 - Share a single global instance throughout our application
     - Singletons are classes which can be instantiated once, and can be accessed globally.
 
