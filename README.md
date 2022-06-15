@@ -76,47 +76,8 @@ http://jstherightway.org/ko-kr/
 ## Render Props
 - https://github.com/renatorib/react-powerplug
 - https://github.com/pedronauck/react-adopt
-
-## XState
-- JavaScript and TypeScript finite state machines (opens new window)and statecharts (opens new window)for the modern web.
-- https://xstate.js.org/docs/
-
-## Redux
-- http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/
-- [Ducks Pattern](https://github.com/erikras/ducks-modular-redux)
-  - To me, it makes more sense for these pieces to be bundled together in an isolated module that is self contained, and can even be packaged easily into a library. if you wanna more detail, click ducks link.
-- [redux-box](https://github.com/anish000kumar/redux-box)
-### Services
-- https://github.com/hql287/Manta
-
-### Flux Concept
-- http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/
-### Action
-- Redux-Thunk
-based on High order Function
-- Redux-Saga 
-based on Generator Function
-- Redux-Obervable
-like Observer pattern.
-### Reducer
-- Hierarchy Tree
-### Store
-- a Store 
-
-## MobX
-- https://mobx.js.org/intro/concepts.html
-- It Seems Like Excel Spreadsheets
-- [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
-
-### Services
-- https://github.com/meetfranz/franz
-
-## Obervable
-- https://redux-observable.js.org/
-
-## translator
-- babel
-- grunt
+## Frontend Pattern
+- https://www.patterns.dev/
 
 ## Other Patterns
 - LINQ
@@ -166,3 +127,10 @@ bugsnag, rollbar, sentry, raygun, honeybadger, trackjs, airbrake.io
 - [Radium](https://github.com/FormidableLabs/radium)
   - CSS in JS. inline style로 모든 CSS를 표현할수 있다. ex) mediaquery, :hover, :active ...
 
+### Services
+- https://github.com/hql287/Manta
+- https://github.com/meetfranz/franz
+
+## Translator
+- babel
+- grunt
