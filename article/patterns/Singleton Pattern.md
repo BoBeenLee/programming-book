@@ -1,5 +1,3 @@
-# patterns
-- https://www.patterns.dev/posts/introduction/
 
 ## Singleton Pattern
 - Share a single global instance throughout our application
