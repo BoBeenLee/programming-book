@@ -36,3 +36,6 @@
 
 ### Comparison
 - https://react-query.tanstack.com/comparison
+
+## QA
+- SDK 호출에 대한 Promise 부분도 react-query 동작이 동일한가?
