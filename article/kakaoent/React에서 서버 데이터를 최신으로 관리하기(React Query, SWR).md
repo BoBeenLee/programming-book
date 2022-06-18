@@ -64,3 +64,4 @@ queryClient.invalidateQueries({
 ### QA
 - SWR이 아닌 React Query를 선택한 이유는?
   - 둘다 동일하기에 부가 기능들이 있기에 선택한것으로 보여짐
+  - https://react-query.tanstack.com/comparison
