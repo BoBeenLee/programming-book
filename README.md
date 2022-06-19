@@ -42,6 +42,7 @@
 - Single point of failure (SPOF)
 - [monorepo](https://monorepo.tools/?fbclid=IwAR2ZTCTmoREVHRzHzmDD9IRenbXThz9WYqqwbKi33bNqlp3q_lcKQ8crCbI#distributed-task-execution) vs polyrepo
   - https://github.com/joelparkerhenderson/monorepo-vs-polyrepo  
+- syntatic sugar
 
 http://jstherightway.org/ko-kr/
 
