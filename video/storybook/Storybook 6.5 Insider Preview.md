@@ -112,8 +112,10 @@
 	- 이건 직접 세팅하고 경험해봐야 실제 프로덕트 레벨에서 적용하면 좋을 부분인지 봐야할듯
 
 
-
-
+## Reference
+- https://storybook.js.org/blog/interaction-testing-with-storybook/
+- https://storybook.js.org/blog/interactive-stories-beta/
+- https://testing-library.com/docs/queries/about/#manual-queries
 
 
 
