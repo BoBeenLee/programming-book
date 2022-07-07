@@ -149,3 +149,4 @@ bugsnag, rollbar, sentry, raygun, honeybadger, trackjs, airbrake.io
 - 시각화
 - 동등성 (memoization 관련해서)
 - 응집력 (UI를 응집력 있는 전체와 일부분으로..)
+- reference equality
