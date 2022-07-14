@@ -1,0 +1,32 @@
+<html>
+  <style>
+    .wbr {
+      white-space: nowrap;
+    }
+    .only-mobile {
+      display: none;
+    }
+    @media only screen and (max-width: 1000px) {
+      .only-mobile {
+        display: inline;
+      }
+    }
+  </style>
+  <body>
+    <p>
+      여기에 포함 된 많은 번역 예문은 "EXAMPLES" - 영어-한국어 번역과 영어
+      번역에 대한 검색 엔진. ... 문장 및 번역에서 문구 사용의 예를 참조하십시오.
+    </p>
+    <p class="wbr">
+      여기에 포함 된 많은 번역 예문은<wbr class="only-mobile" /> "EXAMPLES" -
+      영어-한국어 번역과 영어<wbr /> 번역에 대한 검색 엔진. ...
+      <wbr class="only-mobile" />문장 및 번역에서 문구 사용의 예를 참조하십시오.
+    </p>
+    <p>
+      http://this.is.a.really.long.example.com<wbr />/With/deeper/level/pages<wbr />/deeper/level/pages<wbr />/deeper/level/pages<wbr />/deeper/level/pages<wbr />/deeper/level/pages
+    </p>
+    <p>
+      http://this.is.a.really.long.example.com/With/deeper/level/pages/deeper/level/pages/deeper/level/pages/deeper/level/pages/deeper/level/pages
+    </p>
+  </body>
+</html>
