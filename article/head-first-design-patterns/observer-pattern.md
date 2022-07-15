@@ -71,7 +71,14 @@ notify() {
 ## Example
 
 - Clock Examples
-  [![Edit Clock - Observer Patterns With TS](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/clock-observer-patterns-with-ts-w25927?fontsize=14&hidenavigation=1&theme=dark)
+<iframe src="https://codesandbox.io/embed/clock-observer-patterns-with-ts-w25927?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Clock - Observer Patterns With TS"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
+<br/>
+[![Edit Clock - Observer Patterns With TS](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/clock-observer-patterns-with-ts-w25927?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Usecase
 
