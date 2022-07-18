@@ -6,7 +6,7 @@
 
 - https://github.com/WebDevSimplified/react-folder-structure
 
-## 📂 Advanded React Folder Structure
+## 📂 Advanced React Folder Structure
 
     root
     ├── advanced
