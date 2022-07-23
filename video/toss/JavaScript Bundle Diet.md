@@ -179,4 +179,5 @@ const PageB = dynamic(() => /_ webpackPrefetch: true _/ import("./PageB"));
 - typescript에선 현재도 pure annotation을 지원하지 않는가?
 	- 따로 나와있는 정보가 없는것보니 babel을 이용해야할듯 싶기도하다.
 - babel을 사용한다면 nextjs swc기능에 제한이 있기에 라이브러리 만드는 용도에서만 사용해야할듯 싶기도하다.
+- 번들 최적화는 프로젝트 규모따라 최적화 작업이 여러가지 발생할테지만 결국 라이브러리 의존도가 얼마나 있으냐에 따라 번들 사이즈 작업량이 달라지는 듯하다.
 ```
