@@ -75,4 +75,4 @@ const OtherContents = lazyIdle(() => import("./otherContents"));
 
 ## My Opinion
 
-- nextjs에서 이용하려면 dynamic noSSR 설정을 하여 CSR 측면에서 최적화하는 방법으론 충분할듯 싶습니다.
+- nextjs에서 이용하려면 [dynamic noSSR](https://nextjs.org/docs/advanced-features/dynamic-import#with-no-ssr) 설정을 하여 CSR 측면에서 최적화하는 방법으론 충분할듯 싶습니다.
