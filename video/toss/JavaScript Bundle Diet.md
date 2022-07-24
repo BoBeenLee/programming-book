@@ -48,7 +48,7 @@
   - lodash가 번들에 포함된 경우가 많아 lodash최적화는 의미가 있다.
   - 다양한 라이브러리에 있다. cjs, esm버젼, 각기능별로 존재함.
     - Webpack의 alias기능을 활용하면 웹팩에 있는 lodash기능만 이용하게 할 수 있다.
-  - `babel-plugin-transform-imports`, `babel-plugin-lodash`를 이용하여 결과물을 최적화한다.
+  - [`babel-plugin-transform-imports`](https://bitbucket.org/amctheatres/babel-transform-imports/src/master/), `babel-plugin-lodash`를 이용하여 결과물을 최적화한다.
 
 ## 더 가벼운 라이브러리 사용하기
 
