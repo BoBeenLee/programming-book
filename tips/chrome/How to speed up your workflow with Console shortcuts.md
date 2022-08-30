@@ -59,10 +59,21 @@ monitorEvents(window, "resize");
 unmonitorEvents(window)
 ```
 
+## monitor, unmonitor
+
+```
+function sum(a, b) {
+    console.log(a + b);
+}
+monitor(sum);
+// function sum called ... 콘솔 로그에 남겨짐
+unmonitor(sum);
+```
+
 ## My Opinion
 
 - jQuery처럼 쓸수 있다는 점
 - queryObjects를 이용하여 모든 객체 생성 요소 상태를 확인할 수 있는 부분
 - Object클래스 이용없이 keys, values를 이용할 수 있다는점
-- \*\*monitor 함수를 이용하여 콘솔로 value watching이 가능할 수 있기에 개발 값 확인용도로 기억하고 있다면 유용할것으로 보입니다.
+- <b>monitor 함수를 이용하여 콘솔로 value watching이 가능할 수 있기에 개발 값 확인용도로 기억하고 있다면 유용할것으로 보입니다.</b>
   - ex) 로그인 후 accessToken 값이 제대로 바뀌고 있는지 여부
