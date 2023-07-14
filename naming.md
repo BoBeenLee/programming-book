@@ -30,7 +30,7 @@ contain, has, is, can
 - 변환 :
 map, convert
 - 조작 : 
-toggle, handle
+toggle, **handle**
 - 이동 :
 move, navigate, shift, animate
 - 시작 : 
