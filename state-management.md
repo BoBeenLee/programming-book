@@ -2,6 +2,9 @@
 
 ## Zustand
 
+## Recoil
+- https://recoiljs.org/
+
 ## Redux
 - http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/
 - [Ducks Pattern](https://github.com/erikras/ducks-modular-redux)
